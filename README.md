@@ -1,11 +1,11 @@
-# BCOO Technical White Paper
+# Bitconch Technical White Paper
 
 - [English](WhitePaper.md)
 - [Chinese](zh-CN/WhitePaperCN.md) 
 
-# BCOO Wiki
+# Bitconch Wiki
 
-- [English](https://github.com/BCOOCHAIN/BCOO/wiki)
+- [English](https://github.com/bitconch/bus/wiki)
 
 # Translation Guide
 
