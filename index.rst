@@ -3,10 +3,15 @@ Bitconch
 
 .. image:: logo.svg
     :width: 120px
-    :alt: Solidity logo
+    :alt: bitconch logo
     :align: center
 
-Something about Bitconch
+With 100000 TPSs, Bitconch is the fastest basic public chain in the world,
+dedicated to building a truly decentralized network and infrastructure for it.
+Based on the orginal POR reputation consensus algorithm, Bitconch develops 
+Bit-R reputation quantification anti-centralization node governance system
+and Blaze zero delay ledger access technology, which effectively solves the 
+incompatibility of "high speed, security and decentralization".
 
 .. warning::
 
@@ -27,7 +32,7 @@ Language Documentation
     :ref:`security_considerations` section.
 
 If you have any questions, you can try searching for answers or asking on the
-`Ethereum Stackexchange <https://ethereum.stackexchange.com/>`_, or our `gitter channel <https://gitter.im/ethereum/solidity/>`_.
+`https://github.com/bitconch/Documentation`_, or our `https://bitconch.io/technicalManual.jhtml`_.
 
 Ideas for improving Solidity or this documentation are always welcome, read our :doc:`contributors guide <contributing>` for more details.
 
@@ -41,7 +46,7 @@ They have varying degrees of completeness and up-to-dateness. The English
 version stands as a reference.
 
 * `Simplified Chinese <http://bitconch-zn.readthedocs.io>`_ (in progress)
-* `Korean <http://bitconch-kr.readthedocs.io>`_ (in progress)
+* `English <http://bitconch-kr.readthedocs.io>`_ (in progress)
 
 
 Contents
@@ -51,5 +56,17 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   How-to-setup-the-testnet-node-service.rst
-   How-to-setup-the-blockexplorer.rst
+   how-to-setup-the-testnet-node-service.rst
+   how-to-setup-the-blockexplorer.rst
+   how-to-setup-the-faucet-wallet
+   how-to-setup-the-web-based-game
+   how-to-create-an-account-and-get-some-tokens
+   how-to-create-a-token-technical 
+   how-to-issue-a-toekn(non-technical)
+   how-to-create-an-DApp-on-Bitconch-mainnet(technical)
+DApp-Dev-Reference 
+   Bitconch-web3j
+DApp-Dev-Guide
+   how-to-develop-a-block-explorer
+   how-to-develop-a-game-on-blockchain 
+   how-to-develop-a-web-based-wallet
