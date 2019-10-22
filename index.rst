@@ -32,9 +32,9 @@ Language Documentation
     :ref:`security_considerations` section.
 
 If you have any questions, you can try searching for answers or asking on the
-`https://github.com/bitconch/Documentation`_, or our `https://bitconch.io/technicalManual.jhtml`_.
+`Bitconch Documentation <https://github.com/bitconch/Documentation>`_, or our `Technical Manual <https://bitconch.io/technicalManual.jhtml>`_.
 
-Ideas for improving Solidity or this documentation are always welcome, read our :doc:`contributors guide <contributing>` for more details.
+Ideas for improving Bitconch or this documentation are always welcome, read our :doc:`contributors guide <contributing>` for more details.
 
 .. _translations:
 
