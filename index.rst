@@ -58,16 +58,16 @@ Contents
    :maxdepth: 2
    how-to-setup-the-testnet-node-service.rst
    how-to-setup-the-blockexplorer.rst
-   how-to-setup-the-faucet-wallet
-   how-to-setup-the-web-based-game
-   how-to-create-an-account-and-get-some-tokens
-   how-to-create-a-token-technical 
-   how-to-issue-a-toekn(non-technical)
-   how-to-create-an-DApp-on-Bitconch-mainnet(technical)
-DApp-Dev-Reference 
-   Bitconch-web3j
-DApp-Dev-Guide
-   how-to-develop-a-block-explorer
-   how-to-develop-a-game-on-blockchain 
-   how-to-develop-a-web-based-wallet
+   how-to-setup-the-faucet-wallet.rst
+   how-to-setup-the-web-based-game.rst
+   how-to-create-an-account-and-get-some-tokens.rst
+   how-to-create-a-token-technical.rst
+   how-to-issue-a-toekn(non-technical).rst
+   how-to-create-an-DApp-on-Bitconch-mainnet(technical).rst
+DApp-Dev-Reference.rst
+   Bitconch-web3j.rst
+DApp-Dev-Guide.rst
+   how-to-develop-a-block-explorer.rst
+   how-to-develop-a-game-on-blockchain.rst
+   how-to-develop-a-web-based-wallet.rst
    
