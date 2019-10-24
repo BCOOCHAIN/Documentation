@@ -92,5 +92,36 @@ Bitconch-web3j
 |                        |                           |              SendTxnRpcResult             | variable  |
 |                        |                           +-------------------------------------------+-----------+
 |                        |                           |                AccountDetail              | variable  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |              KeyedAccountDetail           | variable  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |            AccountChangeCallback          | variable  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |          AccountSubscriptionDetail        | variable  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |      ControllerAccountChangeCallback      | variable  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |    ControllerAccountSubscriptionDetail    | variable  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |                SignaturePass              | variable  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |                    TxnErr                 | variable  |
+|                        +---------------------------+-------------------------------------------+-----------+
+|                        |         Connection        |                     _rpcReq               | property  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |                   _rpcWebSock             | property  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |             _rpcWebSockConnected          | property  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |                _blockhashInfo             | property  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |         _disableBlockhashCaching          | property  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |     _accountChangeSubscriptionCounter     | property  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |   _controllerAccountChangeSubscription    | property  |
+|                        |                           +-------------------------------------------+-----------+
+|                        |                           |_controllerAccountChangeSubscriptionCounter| property  |
+
 
 
